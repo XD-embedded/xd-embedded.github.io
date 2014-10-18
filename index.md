@@ -13,5 +13,4 @@ author: Esben Haabendal
 # Blog
 
 {% for post in site.posts limit:20 %}
-* [{{ post.date | date_to_string }} {{ post.title }}](.{{ post.url }})
-{% endfor %}
+* [{{ post.date | date_to_string }} {{ post.title }}]({{ post.url }}){% endfor %}

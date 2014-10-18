@@ -1,6 +1,5 @@
 ---
 title: XD-embedded project launched
-layout: post
 ---
 # {{ page.title }}
 
