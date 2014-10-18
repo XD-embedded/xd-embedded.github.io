@@ -1,3 +1,17 @@
+title: XD-embedded
+tagline: Making embedded Linux system development fun
+description: XD-embedded is a project with the goal of developing flexible, efficient and easy-to-use tools for embedded Linux system developers
+email: esben@haabendal.dk
+github: https://github.com/XD-embedded
+
+markdown: redcarpet
+kramdown:
+  input: GFM
+highlighter: pygments
+
+url: "http://www.xd-embedded.org"
+baseurl: "/"
+
 defaults:
   -
     scope:
